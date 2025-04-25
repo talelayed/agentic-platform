@@ -1,0 +1,65 @@
+.main{
+    display: flex;
+}
+
+.main h1{
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: 0;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.sub-container{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    margin: auto;
+}
+
+.connect{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    z-index: 999;
+}
+
+.robot{
+
+}
+
+.login{
+    height: 200px;
+    width: 400px;
+    background-color: #B64FC8;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 40px;
+    color: white;
+        &:hover{
+        background-color: transparent;
+        border: 1px solid white;
+    }
+}
+
+.register{
+    height: 200px;
+    width: 400px;
+    background-color: #b64fc867;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 40px;
+    color: white;
+        &:hover{
+        background-color: transparent;
+        border: 1px solid white;
+    }
+    margin-top: 50px;
+}
