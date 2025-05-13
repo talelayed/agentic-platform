@@ -1,0 +1,4 @@
+from agentic_platform.src.vector_store import create_vector_index
+from config import OPENSEARCH_INDEX
+
+create_vector_index(OPENSEARCH_INDEX)

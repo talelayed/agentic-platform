@@ -1,0 +1,5 @@
+boto3
+opensearch-py
+fastapi
+uvicorn
+python-dotenv

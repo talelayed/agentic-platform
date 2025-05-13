@@ -1,0 +1,18 @@
+[
+    {
+      "id": "doc1",
+      "title": "Introduction to Generative AI",
+      "content": "Generative AI refers to artificial intelligence systems that are capable of creating new content, such as text, images, audio, and video. These models learn patterns from existing data and generate outputs that resemble human creativity. Examples include large language models like GPT and image generators like DALL-E."
+    },
+    {
+      "id": "doc2",
+      "title": "Applications of Generative AI",
+      "content": "Generative AI is widely used across industries including healthcare, entertainment, education, and business. It can automate content creation, personalize learning experiences, assist in drug discovery, generate synthetic data for training, and create marketing materials like ads or product descriptions."
+    },
+    {
+      "id": "doc3",
+      "title": "Challenges in Generative AI",
+      "content": "Despite its potential, Generative AI poses challenges such as hallucinations, biased outputs, intellectual property concerns, and misinformation risks. Researchers are actively working to develop techniques like Reinforcement Learning from Human Feedback (RLHF) and content filters to address these issues."
+    }
+  ]
+  
